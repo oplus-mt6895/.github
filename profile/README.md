@@ -5,7 +5,7 @@ This organization contains all the important repositories required to build cust
 ### Required device specific repositories
 * [**Device tree**](https://github.com/oplus-mt6895/android_device_oplus_zephyr) (`android_device_oplus_zephyr`)
 * [**Device kernel tree (Compiled outputs from kernel source)**](https://gitlab.com/NINJAHUNTER1357/android_device_oplus_mt6895.git) (`android_device_oplus_zephyr-kernel`)
-* [**Vendor tree (common)**](https://gitlab.com/NINJAHUNTER1357/proprietary_vendor_oplus_zephyr.git) (`proprietary_vendor_oplus_zephyr`)
+* [**Vendor tree**](https://gitlab.com/NINJAHUNTER1357/proprietary_vendor_oplus_zephyr.git) (`proprietary_vendor_oplus_zephyr`)
 
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/oplus-mt6895/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
