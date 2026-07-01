@@ -1,20 +1,25 @@
-## Development for Realme GT Neo 3 aka "`lisaa`" and Oneplus 10R aka "`pickle`"
-This organization contains all the important repositories required to build custom ROMs for Realme GT Neo 3 and Oneplus 10R 
+## Development for Realme GT Neo 3 "`lisaa`" and OnePlus 10R "`pickle`"
+
+This organization contains all the repositories required to build custom ROMs for the **Realme GT Neo 3** and **OnePlus 10R** based on the **MediaTek MT6895** platform.
+
 <div>
-  <img align="right" width="28%" src="https://rukminim2.flixcart.com/image/1358/1358/l3rmzrk0/mobile/a/f/2/-original-imagetmecznbydne.jpeg?q=90">
-  <img align="right" width="25%" src="https://rukminim2.flixcart.com/image/1358/1358/xif0q/mobile/u/u/g/10r-cph2423-cph2411-9-old-oneplus-original-imah3ptctyt5yqjk.jpeg?q=90">
+  <img align="right" width="255" src="https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/252971_9_oip2ql.png?tr=w-1000">
+  <img align="right" width="250" src="https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/252418_6_i2rrxx.png?tr=w-1000">
 </div>
 
 ### Required device specific repositories
+
 * [**Device tree**](https://github.com/oplus-mt6895/android_device_oplus_zephyr) (`android_device_oplus_zephyr`)
-* [**Kernel tree (Compiled outputs from kernel repo)**](https://gitlab.com/NINJAHUNTER1357/android_device_oplus_zephyr-kernel.git) (`android_device_oplus_zephyr-kernel`)
-* [**Vendor tree**](https://gitlab.com/NINJAHUNTER1357/proprietary_vendor_oplus_zephyr.git) (`proprietary_vendor_oplus_zephyr`)
+* [**Device kernel tree (compiled kernel outputs)**](https://gitlab.com/NINJAHUNTER1357/android_device_oplus_zephyr-kernel) (`android_device_oplus_zephyr-kernel`)
+* [**Vendor tree**](https://gitlab.com/NINJAHUNTER1357/proprietary_vendor_oplus_zephyr) (`proprietary_vendor_oplus_zephyr`)
 
 ### Other required repositories
-* [**MediaTek sepolicy**](https://github.com/oplus-mt6895/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
-* [**MediaTek hardware**](https://github.com/oplus-mt6895/android_hardware_mediatek) (`android_hardware_mediatek`)
-* [**MediaTek oplus**](https://github.com/oplus-mt6895/android_hardware_oplus) (`android_hardware_oplus`)
+
+* [**MediaTek SEPolicy**](https://github.com/oplus-mt6895/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
+* [**MediaTek Hardware**](https://github.com/oplus-mt6895/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**OPlus Hardware**](https://github.com/oplus-mt6895/android_hardware_oplus) (`android_hardware_oplus`)
 
 ### Device kernel repositories
+
 * [**Kernel source**](https://github.com/oplus-mt6895/android_kernel_oplus_mt6895) (`android_kernel_oplus_mt6895`)
 * [**External kernel modules source**](https://github.com/oplus-mt6895/android_kernel_modules_oplus_mt6895) (`android_kernel_modules_oplus_mt6895`)
