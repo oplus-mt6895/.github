@@ -2,10 +2,20 @@
 
 This organization contains all the repositories required to build custom ROMs for the **Realme GT Neo 3** and **OnePlus 10R** based on the **MediaTek MT6895** platform.
 
-<div>
-  <img align="right" width="255" src="https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/252971_9_oip2ql.png?tr=w-1000">
-  <img align="right" width="250" src="https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/252418_6_i2rrxx.png?tr=w-1000">
-</div>
+<table align="right" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img width="250" src="https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/252971_9_oip2ql.png?tr=w-1000">
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>
+      <img width="245" src="https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/252418_6_i2rrxx.png?tr=w-1000">
+    </td>
+  </tr>
+</table>
 
 ### Required device specific repositories
 
