@@ -31,5 +31,6 @@ This organization contains all the repositories required to build custom ROMs fo
 
 ### Device kernel repositories
 
+* [**Kernel manifest**](https://github.com/oplus-mt6895/kernel_manifest)
 * [**Kernel source**](https://github.com/oplus-mt6895/android_kernel_oplus_mt6895) (`android_kernel_oplus_mt6895`)
 * [**External kernel modules source**](https://github.com/oplus-mt6895/android_kernel_modules_oplus_mt6895) (`android_kernel_modules_oplus_mt6895`)
