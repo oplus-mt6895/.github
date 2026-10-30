@@ -1,4 +1,4 @@
-## Development for Realme GT Neo 3 "`lisaa`" and OnePlus 10R "`pickle`" common codename "`zephyr`"
+## Development for Realme GT Neo 3 "`lisa`" and OnePlus 10R "`pickle`" common codename "`zephyr`"
 
 This organization contains all the repositories required to build custom ROMs for the **realme GT NEO 3** and **OnePlus 10R** based on the **MediaTek MT6895** platform.
 
